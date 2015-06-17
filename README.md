@@ -1,0 +1,2 @@
+# Logcleaner
+A Linux logcleaner.
